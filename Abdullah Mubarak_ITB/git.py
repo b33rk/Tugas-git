@@ -1,0 +1,1 @@
+print("Nama : Abdullah Mubarak\nJurusan : STEI-K\nUniversitas : ITB\nAlasan ingin masuk GDSC : Meningkatkan skill dan pengetahuan, terutamanya mengenai AI & data science, menjalin relasi")
